@@ -5,9 +5,15 @@ This repository contains a Python script (main.py) that utilizes a neural networ
 # Getting Started
 <br>
 To use this program, follow the instructions below:
+<br>
 Clone the repository
-Install the required dependencies: pip install tensorflow
-Run the main.py script: python main.py
+Install the required dependencies:
+<br>
+pip install tensorflow
+<br>
+Run the main.py script: 
+<br>
+python main.py
 
 # Requirements
 <br>
