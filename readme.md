@@ -14,7 +14,7 @@ Run the main.py script: python main.py
 Python 3.6 or higher
 TensorFlow 2. x
 
-**# File Description**
+# File Description
 <br>
 main.py: The main Python script containing the neural net learning application.
 The%203%20Kingdoms_djvu.txt: The input text file used for training and generating poetry.
