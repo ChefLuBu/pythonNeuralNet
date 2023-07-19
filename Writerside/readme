@@ -1,22 +1,22 @@
-# Neural Net Poetry Generator
+**# Neural Net Poetry Generator**
 This repository contains a Python script (main.py) that utilizes a neural network to generate poetry based on open source literature. The program reads a text file, preprocesses the data, trains a recurrent neural network, and generates new text in the style and language of the input.
 
-# Getting Started
+**# Getting Started**
 To use this program, follow the instructions below:
 Clone the repository
 Install the required dependencies: pip install tensorflow
 Run the main.py script: python main.py
 
-# Requirements
+**# Requirements**
 Python 3.6 or higher
 TensorFlow 2.x
 
-# File Description
+**# File Description**
 main.py: The main Python script containing the neural net learning application.
 The%203%20Kingdoms_djvu.txt: The input text file used for training and generating poetry.
 textgeneratorr3k.model: Pretrained model for generating poetry.
 
-# Usage
+**# Usage**
 The program is designed to generate poetry that matches the style and language of the input text. It follows the steps outlined below:
 
 Reads the input text file and preprocesses the data.
@@ -28,7 +28,7 @@ The temperature parameter determines the randomness of the generated output. Low
 
 To generate poetry, uncomment the section labeled "Uncomment when creating a new file" to create a new dataset and train the model. Similarly, uncomment the section labeled "uncomment when parsing file" to load a pretrained model and generate poetry.
 
-# Example Output
+**# Example Output**
 The script includes several examples of generated poetry with different temperature settings:
 
 
@@ -104,11 +104,11 @@ With no hope of escape.
 But in the darkness, I find strength,
 And the will to fight on.
 
-# Contributing
+**# Contributing**
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-# License
+**# License**
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 
-# Acknowledgments
+**# Acknowledgments**
 The neural network architecture and training process are inspired by various natural language processing and deep learning techniques. The program's implementation is influenced by the open-source community and the work of many researchers in the field of machine learning and artificial intelligence.
