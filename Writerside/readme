@@ -1,5 +1,4 @@
 # Neural Net Poetry Generator
-
 This repository contains a Python script (main.py) that utilizes a neural network to generate poetry based on open source literature. The program reads a text file, preprocesses the data, trains a recurrent neural network, and generates new text in the style and language of the input.
 
 # Getting Started
