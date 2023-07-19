@@ -9,12 +9,17 @@ To use this program, follow the instructions below:
 Clone the repository
 Install the required dependencies:
 <br>
+
+````
 pip install tensorflow
+````
 <br>
 Run the main.py script: 
 <br>
-python main.py
 
+```
+python main.py
+```
 # Requirements
 <br>
 Python 3.6 or higher
@@ -43,7 +48,7 @@ To generate poetry, uncomment the section labeled "Uncomment when creating a new
 <br>
 The script includes several examples of generated poetry with different temperature settings:
 
-
+```
 ----------.2----------
 It is rare for a hundred schools to go wrong,
 And the queen had built that altar in the southern palace.
@@ -115,7 +120,7 @@ I am trapped in this eternal night,
 With no hope of escape.
 But in the darkness, I find strength,
 And the will to fight on.
-
+```
 # Contributing
 <br>
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
